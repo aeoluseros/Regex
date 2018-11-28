@@ -1,0 +1,12 @@
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial\obj\Debug\RegExTutorial.Form1.resources
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial\obj\Debug\RegExTutorial.Properties.Resources.resources
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial\obj\Debug\RegExTutorial.csproj.GenerateResource.Cache
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial\obj\Debug\RegExTutorial.csprojResolveAssemblyReference.cache
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial.exe.config
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial.exe
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial.pdb
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial\bin\LearnRegex.exe.config
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial\bin\LearnRegex.exe
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial\bin\LearnRegex.pdb
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial\obj\Debug\LearnRegex.exe
+C:\RegularExpressionsWithDotNet\RegExTutorial\RegExTutorial\obj\Debug\LearnRegex.pdb
